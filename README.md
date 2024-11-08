@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SullyGreene/AlpacaX/refs/heads/main/Static/logo.png" alt="TinyAGI Logo">
+  <img src="https://raw.githubusercontent.com/SullyGreene/AlpacaX/refs/heads/main/Static/logo.png" alt="AlpacaX Logo">
 </p>
 
 ## 📚 AlpacaX Dataset Documentation
